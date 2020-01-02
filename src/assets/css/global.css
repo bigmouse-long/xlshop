@@ -1,0 +1,10 @@
+html,
+body,
+#app {
+    /* //全局样式 */
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1366px;
+}
+
