@@ -1,5 +1,5 @@
 <template>
-    <div>user</div>
+    <div>best</div>
 </template>
 <script>
 export default {

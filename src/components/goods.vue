@@ -1,5 +1,5 @@
 <template>
-    <div>user</div>
+    <div>goods</div>
 </template>
 <script>
 export default {
@@ -10,6 +10,3 @@ export default {
   created () {}
 }
 </script>
-<style lang="less" scoped>
-
-</style>
